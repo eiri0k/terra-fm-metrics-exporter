@@ -1145,12 +1145,3 @@ __Words of encouragement and support__
 
 * Jakob Borg for his words of encouragement about this library at Go Forum.  This is especially appreciated in the early stages when there's a lot of rough edges.
 
-
-## License 
-Copyright © 2019-2021 [Faye Amacker](https://github.com/fxamacker).  
-
-fxamacker/cbor is licensed under the MIT License.  See [LICENSE](LICENSE) for the full license text.  
-
-<hr>
-
-⚓  [Quick Start](#quick-start) • [Status](#current-status) • [Design Goals](#design-goals) • [Features](#features) • [Standards](#standards) • [API](#api) • [Options](#options) • [Usage](#usage) • [Fuzzing](#fuzzing-and-code-coverage) • [License](#license)
